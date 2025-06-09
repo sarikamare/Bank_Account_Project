@@ -1,0 +1,36 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Output directories
+bin/
+target/
+
+# Build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven (if used)
+target/
+
+# Gradle (if used)
+.gradle/
+build/
+
+# VS Code (if you also use it)
+.vscode/
